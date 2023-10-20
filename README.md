@@ -1,0 +1,3 @@
+# testappdocker
+
+docker test

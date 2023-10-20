@@ -1,0 +1,8 @@
+site_name: "testappdocker"
+site_description: "docker test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
